@@ -1,4 +1,5 @@
 var selectElementsStartingWithA = function(array) {
+    console.log('bla bla - test');
     return 'Write your method here';
 }
 
